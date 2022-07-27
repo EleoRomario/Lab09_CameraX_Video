@@ -13,6 +13,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../utils/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/bf622f4ee4b0bf1173fbbfe24415eb84/transformed/jetified-junit-1.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/dd61e78787bb9e163b6275fb17b0b39e/transformed/rules-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/69bb0e1c661c28b0b4bf80a6cc30960b/transformed/espresso-core-3.2.0-api.jar</arg>
